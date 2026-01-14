@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/refreshpack.yml"
-hash = "1507ff4654d7fdb71c5bf39a10b471415ebfbf22259415b85e1332584f7bff82"
+hash = "9a7981d954b966b27c35eed6ab51d96f50103c1887823564aeb42d148ee575bc"
 
 [[files]]
 file = "config/alexscaves-client.toml"
