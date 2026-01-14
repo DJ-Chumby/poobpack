@@ -694,6 +694,11 @@ hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
 file = "mods/compat-delight.pw.toml"
 hash = "f1f2ac0a30c1b2912e335f3d36b02a22af8b962385ed0a68bdcfa46cc83b9498"
 metafile = true
@@ -811,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 metafile = true
 
 [[files]]
@@ -939,6 +949,11 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
@@ -976,6 +991,11 @@ metafile = true
 [[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
 metafile = true
 
 [[files]]
@@ -1026,6 +1046,11 @@ metafile = true
 [[files]]
 file = "mods/portable-crafting-table.pw.toml"
 hash = "1fd8a2699c76037a8b14ee761a9e4520cba05105b26394d08e9bdf7e87e8a918"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
