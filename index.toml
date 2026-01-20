@@ -811,6 +811,11 @@ hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "9eb4f3e7a5a83c588e0caa676d91597c18f2c8004c9e57a10e72859e474fa0e5"
 metafile = true
